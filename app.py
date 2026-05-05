@@ -16,11 +16,11 @@ Looking for a Python developer with knowledge of AI, machine learning,
 and experience in building applications using Tkinter or Flask.
 """
 
-def extract_text(file_path):
+def extract_text(file):
     
     text = ""
 
-    with pdfplumber.open(file_path) as pdf:
+    with pdfplumber.open(file) as pdf:
         for page in pdf.pages:
             page_text = page.extract_text()
             if page_text:
