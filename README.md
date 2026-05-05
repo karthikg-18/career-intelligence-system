@@ -40,9 +40,8 @@ An AI-powered web application that analyzes resumes and compares them with job d
 
 ## 📸 Demo
 
-![App Screenshot](Screenshot1.png)
-![App Screenshot](Screenshot2.png)
-
+![UI](Screenshot1.png)
+![Results](Screenshot2.png)
 ---
 
 ## ▶️ Run Locally
